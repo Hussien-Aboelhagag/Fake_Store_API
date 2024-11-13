@@ -47,10 +47,4 @@ public class AddNewProduct {
     public int getId() {
         return id;
     }
-
-    public static void main(String[] args) {
-        AddNewProduct addNewProduct = new AddNewProduct();
-        addNewProduct.addNewProduct();
-        System.out.println(addNewProduct.getId());
-    }
 }

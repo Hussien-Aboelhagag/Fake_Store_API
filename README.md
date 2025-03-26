@@ -10,7 +10,6 @@ This project demonstrates the use of the [Fake Store API](https://fakestoreapi.c
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 
 ## Tech Stack
-- **Frontend**: HTML, CSS, JavaScript
 - **API**: Fake Store API (https://fakestoreapi.com/)
 - **Tools**: 
   - Fetch API for HTTP requests

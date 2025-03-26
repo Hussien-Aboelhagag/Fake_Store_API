@@ -14,3 +14,12 @@ This project demonstrates the use of the [Fake Store API](https://fakestoreapi.c
 - **Tools**: 
   - Fetch API for HTTP requests
   - Git for version control
+
+## Acknowledgments
+- Thanks to Fake Store API for providing a free and easy-to-use API for learning purposes.
+- Inspired by my journey in web development and API integration.
+
+## Author
+Hussien Aboelhagag
+
+<a href="https://www.linkedin.com/in/hussien-el-ziat"> LinkedIn</a> | <a href="https://github.com/Hussien-Aboelhagag">GitHub</a>
